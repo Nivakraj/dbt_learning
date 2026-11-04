@@ -1,0 +1,7 @@
+sources:
+  - name: demo_soruce
+    database: demo_db
+    schema: dbt
+    tables:
+      - name: weathertable
+      - name: BIKE
