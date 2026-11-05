@@ -4,4 +4,4 @@ sources:
     schema: dbt
     tables:
       - name: weathertable
-      - name: BIKE
+      - name: bike
