@@ -5,3 +5,4 @@ sources:
     tables:
       - name: weathertable
       - name: bike
+      - name: weather
