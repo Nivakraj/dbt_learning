@@ -3,6 +3,5 @@ sources:
     database: demo_db
     schema: dbt
     tables:
-      - name: weathertable
       - name: bike
       - name: weather
